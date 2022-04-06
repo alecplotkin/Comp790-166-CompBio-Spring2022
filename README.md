@@ -56,21 +56,14 @@ This is the preliminary set of topics.
 | Wednesday, March 23| Pseudotime, Diffusion, and Cellular Differentiation | [[Diffusion Maps for Differentiation](https://academic.oup.com/bioinformatics/article/31/18/2989/241305)], [[SLICER-developed at UNC](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0975-3)], [[Original Diffusion Maps (Coifman)](https://papers.nips.cc/paper/2005/file/2a0f97f81755e2878b264adf39cba68e-Paper.pdf)] | [[Lecture 19 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture19_public.pdf)] | [[Diffusion Maps -Scanpy](https://scanpy.readthedocs.io/en/latest/api/scanpy.tl.diffmap.html)], [[SLICER](https://github.com/jw156605/SLICER)]  | 
 |Monday, March 28| Last single-cell lecture. Branching trajectories with SLICER. Begin combining biological data from multiple modalities using Grassmann Embeddding| [[Subspace Merging on Grassmann Manifold](https://academic.oup.com/bioinformatics/article/35/10/1653/5134062?login=true)], [[Rayleigh Ritz Business (Spectral Clustering...](https://arxiv.org/abs/0711.0189)] | [[Lecture 20 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture20_public.pdf)] | [[Grassmann Cluster](https://github.com/michaelsharpnack/GrassmannCluster)] | 
 |Wednesday, March 30| Finish multimodal data integration with Grassmann + Rayleigh Ritz, Start MOFA integration | [[MOFA](https://www.embopress.org/doi/full/10.15252/msb.20178124)], [[MOFA+](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02015-1)] | [[Lecture 21 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture21_public.pdf)] | [[MOFA](https://github.com/bioFAM/MOFA)] |
-|Monday, April 4| Integrating multiple heterogeneous graphs (e.g. multiple relational definitions). Start network alignment. | [[Mashup](https://www.cell.com/cell-systems/fulltext/S2405-4712(16)30360-X?)], [[REGAL (network alignment)](https://gemslab.github.io/papers/heimann-2018-regal.pdf)] | [[Lecture 22 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture22_public.pdf)]  | [[Mashup](http://cb.csail.mit.edu/cb/mashup/)], [[REGAL](https://github.com/GemsLab/REGAL)] | 
-|Week 9-1| Convex Optimization and ADMM|
-|Week 10-1| 'Multiomics Factor Analysis' for integrating multiple modalities and multiple single-cell modalities|
-|Week 10-2| Integrating Graphs with Multiple Relational Definitions (e.g. same nodes, different edges), Intro to Network Alignment|
-|Week 11-1| Refining Graph Alignments and Graph Summarization|
-|Week 12-2| Harmonic Alignment for integrating multiple single-cell datasets, Graph Neural Networks vs. Label Propagation|
-|Week 13-1| Graph Neural Networks to integrate spatial information with genomic data|
-|Week 13-2| Imagining Proteomics and Genomics and Spatial Regularization|
-|Week 14-1| Computational Neuroscience and Time-Varying Analysis of Brain Connectivity| 
-|Week 15-1| Sketching single-cell datasets day 1
-|Week 15-2| Sketching single-cell datasets day 2
-|Week 16-1| Technical writing in comp bio, opportunities for graph learning in biology, summary of topics covered|
-|Week 16-2| Project Presentations Day 1
-|Week 17-1| Project Presentations Day 2
-|Week 17-2| Project Presentations Day 3
+|Monday, April 4| Integrating multiple heterogeneous graphs (e.g. multiple relational definitions) | [[Mashup](https://www.cell.com/cell-systems/fulltext/S2405-4712(16)30360-X?)] | [[Lecture 22 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture22_public.pdf)]  | [[Mashup](http://cb.csail.mit.edu/cb/mashup/)] | 
+|Wednesday, April 6 [[*Project Presentation Signup* ](https://docs.google.com/spreadsheets/d/1_z1NBffJF8do8JrasTQl-8pS-ATR2ScI7SutRDPIf80/edit?usp=sharing)], [[*Final Project Writeup Template*](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/tree/main/Project_Final_Writeup)]| Graph Alignment and Summarization| [[REGAL (graph alignment)](https://gemslab.github.io/papers/heimann-2018-regal.pdf)], [[Refining Network Alignment](https://gemslab.github.io/papers/heimann-2021-RefiNA.pdf)] | [[Lecture 23 Notes](https://github.com/natalies-teaching/Comp790-166-CompBio-Spring2022/blob/main/Lecture_Notes/Lecture23_public.pdf)]  | [[REGAL](https://github.com/GemsLab/REGAL)], [[RefiNA](https://github.com/GemsLab/RefiNA)] |
+|Monday, April 11| Graph Neural Networks and Label Propagation |
+|Wednesday, April 13|Imaging Modalities and Spatial Regularization   |
+|Monday, April 18| Computational Neuroscience |
+|Wednesday, April 20| Technical Writing in Comp Bio |
+|Monday, April 25| Project Presentations Day 1 |
+|Wednesday, April 27| Project Presentations Day 2|
 |Final Exam Day| Final Project Writeups Due
 
 # Key Dates
